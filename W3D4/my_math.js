@@ -1,5 +1,3 @@
-//my_math.js
-
 function add(x, y) {
     return x + y;
 }

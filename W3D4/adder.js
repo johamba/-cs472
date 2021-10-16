@@ -1,7 +1,3 @@
-/**
- * 2. Write a Node.js program that uses readline to keep on asking the user for a number until they enter “stop”. 
- * The program should then output the sum of all the numbers that the user has entered.
- */
 
 const readline = require('readline').createInterface({
     input: process.stdin,
